@@ -33,7 +33,8 @@ These commands can be run together to build and run test
 # Report
 
 You will be able to locate the report on the folder named report.
-or the target folder created after the build.
+or the target folder created after the build. This test will also, give you the exact location of index.html file on the command line, once the report has been
+built, ran and aggregated.
 
 ```bash
 index.html
