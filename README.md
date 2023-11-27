@@ -9,7 +9,7 @@ Automated test for the Trade-Me sandbox API response
 You will need to install
 
 ```bash
-  Java - At leats 1.8
+  Java - At least 1.8
   Gradle - Any above version 7
 ```
     
